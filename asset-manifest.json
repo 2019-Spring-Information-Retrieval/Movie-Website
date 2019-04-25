@@ -1,5 +1,5 @@
 {
-  "main.css": "/Movie-Website/static/css/main.230fb82b.chunk.css",
+  "main.css": "/Movie-Website/static/css/main.b7e946d2.chunk.css",
   "main.js": "/Movie-Website/static/js/main.e5eebe0d.chunk.js",
   "main.js.map": "/Movie-Website/static/js/main.e5eebe0d.chunk.js.map",
   "runtime~main.js": "/Movie-Website/static/js/runtime~main.d9f52f51.js",
@@ -8,8 +8,8 @@
   "static/js/2.480de86e.chunk.js": "/Movie-Website/static/js/2.480de86e.chunk.js",
   "static/js/2.480de86e.chunk.js.map": "/Movie-Website/static/js/2.480de86e.chunk.js.map",
   "index.html": "/Movie-Website/index.html",
-  "precache-manifest.7e69d71d9bcaa7b8516f1051411716ef.js": "/Movie-Website/precache-manifest.7e69d71d9bcaa7b8516f1051411716ef.js",
+  "precache-manifest.1256cedfb25e87ed8b9262a0b686c68f.js": "/Movie-Website/precache-manifest.1256cedfb25e87ed8b9262a0b686c68f.js",
   "service-worker.js": "/Movie-Website/service-worker.js",
   "static/css/2.a60e5345.chunk.css.map": "/Movie-Website/static/css/2.a60e5345.chunk.css.map",
-  "static/css/main.230fb82b.chunk.css.map": "/Movie-Website/static/css/main.230fb82b.chunk.css.map"
+  "static/css/main.b7e946d2.chunk.css.map": "/Movie-Website/static/css/main.b7e946d2.chunk.css.map"
 }
